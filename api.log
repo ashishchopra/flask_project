@@ -1,0 +1,2 @@
+2019-04-29 12:20:36,350 127.0.0.1: requested http://127.0.0.1:5000/hello/: DEBUG in        [__init__: 65]: A value for debugging
+2019-04-30 09:39:50,341 127.0.0.1: requested http://127.0.0.1:5000/hello/: DEBUG in        [__init__: 61]: Hello, World!
